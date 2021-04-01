@@ -1,0 +1,4 @@
+- TRAINING_CSV_PATH: 'D:/Documents/Cours/AMSE/M2_S2/hands-on-2021/data/raw/GTSRB_Final_Training_Images/GTSRB/Final_Training/Images/*/*.csv'
+- SAVE_MODELS_PATH: 'D:/Documents/Cours/AMSE/M2_S2/hands-on-2021/models/'
+- IMAGE_WIDTH: 30
+- IMAGE_HEIGHT: 30
