@@ -10,7 +10,7 @@ There is also a user interface built on dash.
 
 ## Additional comments
 
-None
+About the SVM models, we trained 3 models, but only one (the most efficient, SVM-linear) of them will be stored in the model folder as the others are too big to fit in the Github repository.
 
 ## References
 
